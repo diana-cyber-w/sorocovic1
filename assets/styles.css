@@ -1,0 +1,110 @@
+.okno {
+    position: relative;
+    background-color: #622929;
+    width: 1110px;
+    height: 672px;
+    font-size: 20px;
+    color: #050507;
+    line-height: 0.1em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+.karta {
+    position: absolute;
+    height: 93.9%;
+    width: 43.3%;
+    right: 5.3%;
+    top: 3.1%;
+}
+
+.lico {
+    position: absolute;
+    width: 28.8%;
+    height: 44.9%;
+    bottom: 0;
+}
+
+.oblako {
+    width: 96%;
+    height: 95%;
+    position: absolute;
+    bottom: -3%;
+    left: 2%;
+}
+
+.voblake {
+    position: absolute;
+    left: 27%;
+    bottom: 27%;
+}
+
+.but1 {
+    background-color: #895757;
+    position: absolute;
+    width: 38.7%;
+    height: 9.5%;
+    border: 0;
+    left: 2.5%;
+    top: 14.9%;
+    font-size: 20px;
+    color: white;
+    line-height: 0.1em;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+}
+
+.but2 {
+    background-color: #895757;
+    border: 0;
+    position: absolute;
+    width: 38.7%;
+    height: 9.5%;
+    left: 2.5%;
+    top: 28.6%;
+    font-size: 20px;
+    color: white;
+    line-height: 0.1em;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+}
+
+.but3 {
+    background-color: #895757;
+    border: 0;
+    position: absolute;
+    width: 38.7%;
+    height: 9.5%;
+    left: 2.5%;
+    top: 42.3%;
+    font-size: 20px;
+    color: white;
+    line-height: 0.1em;
+    font-family: 'Open Sans', sans-serif;
+    cursor: pointer;
+}
+
+.v1 {
+    position: absolute;
+    top: 7%;
+    left: 14.7%;
+}
+
+.knopka1 {
+    position: absolute;
+    width: 5.3%;
+    height: 16%;
+    right: 6.2%;
+}
+
+.knopka2 {
+    position: absolute;
+    width: 5.3%;
+    height: 16%;
+    right: 44.1%;
+}
